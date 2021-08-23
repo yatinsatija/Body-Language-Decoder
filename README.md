@@ -27,21 +27,22 @@ Functional requirements define the basic system behaviour. Essentially, they are
 ## Hardware requirements
 
 Minimum requirements:
-● 4GB RAM
-● Quad core processor
-● 2GB integrated GPU
-Recommended requirements:
-● CPU: Model name: Intel(R) Xeon(R) CPU @ 2.30GHz
-● Cache size: 46080 KB
-● GPU: single 12GB NVIDIA Tesla K80 GPU
-● 13 GB RAM
+
+- 4GB RAM
+- Quad core processor
+- 2GB integrated GPU<br/>
+  Recommended requirements:
+- CPU: Model name: Intel(R) Xeon(R) CPU @ 2.30GHz
+- Cache size: 46080 KB
+- GPU: single 12GB NVIDIA Tesla K80 GPU
+- 13 GB RAM
 
 ## Software requirements
 
-● Python 3.5 or higher
-Open source human body modelling framework - MediaPipe
-Scikit learn preprocessing
-Scikit learn classifiers - LogisticRegression, RidgeClassifier, RandomForestClassifier, GradientBoostingClassifier
-Opencv- python
-● Numpy
-● Pandas
+- Python 3.5 or higher
+- Open source human body modelling framework - MediaPipe
+- Scikit learn preprocessing
+- Scikit learn classifiers - LogisticRegression, RidgeClassifier, RandomForestClassifier, GradientBoostingClassifier
+- Opencv- python
+- Numpy
+- Pandas
